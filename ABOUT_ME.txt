@@ -1,0 +1,5 @@
+Hi, I'm Sobia
+I'm a BSCS student at Mohammad Ali Jinnah University (MAJU).
+I'm passionate about programming and technology.
+Currently learning C++ and improving my coding skills.
+My goal is to become a skilled software developer. 
