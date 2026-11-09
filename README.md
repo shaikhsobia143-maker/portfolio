@@ -1,4 +1,4 @@
-# portfolio
+# ICT-portfolio
 Hi, I'm Sobia 👋
 
  BS Computer Science Student at Mohammad Ali Jinnah University (MAJU).
